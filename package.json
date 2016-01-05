@@ -1,0 +1,23 @@
+{
+  "name": "ttf-base64-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for inlining ttf files in base64 format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ttf",
+    "base64"
+  ],
+  "author": "James Nimlos",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JamesNimlos/ttf-base64-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JamesNimlos/ttf-base64-loader/issues"
+  },
+  "homepage": "https://github.com/JamesNimlos/ttf-base64-loader#readme"
+}
